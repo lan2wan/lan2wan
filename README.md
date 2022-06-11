@@ -1,2 +1,2 @@
 # lan2wan
-Repository to manage issues
+Repository to report lan2wan issues
